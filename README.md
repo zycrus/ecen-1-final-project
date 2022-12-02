@@ -10,3 +10,6 @@ Circuits:
 > Ohmmeter
 > Bluetooth Transciever
 > Arduino
+
+Resources:
+> [Allaboutcircuits](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/make-your-own-multimeter/)
