@@ -5,12 +5,12 @@ Individual
 ## Plan 1: Digital Multimeter w/ Bluetooth Connectivity
 
 Circuits:
-> Voltmeter
-> Ammeter
-> Ohmmeter
-> Bluetooth Transciever
-> Arduino
+- Voltmeter
+- Ammeter
+- Ohmmeter
+- Bluetooth Transciever
+- Arduino
 
 Resources:
-> [Allaboutcircuits](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/make-your-own-multimeter/)
-> [Element14](https://community.element14.com/challenges-projects/element14-presents/project-videos/w/documents/5201/episode-483-diy-miniature-multimeter?CMP=SOM-YOUTUBE-PRG-E14PRESENTS-EP483-DIY-MINIATURE-MULTIMETER-COMM)
+- [Allaboutcircuits](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/make-your-own-multimeter/)
+- [Element14](https://community.element14.com/challenges-projects/element14-presents/project-videos/w/documents/5201/episode-483-diy-miniature-multimeter?CMP=SOM-YOUTUBE-PRG-E14PRESENTS-EP483-DIY-MINIATURE-MULTIMETER-COMM)
