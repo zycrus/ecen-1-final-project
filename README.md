@@ -2,7 +2,13 @@
 Individual
 
 
-## Plan 1: Digital Multimeter w/ Bluetooth Connectivity
+
+## Plan 1: Braille Alphabet Trainer
+
+Circuit:
+[Circuit](Braille Alphabet Trainer.jpg)
+
+## Plan 2: Digital Multimeter w/ Bluetooth Connectivity
 
 Circuits:
 - Voltmeter
