@@ -6,7 +6,7 @@ Individual
 ## Plan 1: Braille Alphabet Trainer
 
 Circuit:
-![Circuit](Braille Alphabet Trainer.jpg)
+![Circuit](https://github.com/zycrus/ecen-1-final-project/blob/main/Braille%20Alphabet%20Trainer.jpg)
 
 ## Plan 2: Digital Multimeter w/ Bluetooth Connectivity
 
