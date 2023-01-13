@@ -3,12 +3,17 @@ Individual
 
 
 
-## Plan 1: Braille Alphabet Trainer
+## ~Plan 1: Braille Alphabet Trainer~
 
 Circuit:
 ![Circuit](https://github.com/zycrus/ecen-1-final-project/blob/main/Braille%20Alphabet%20Trainer.jpg)
 
-## Plan 2: Digital Multimeter w/ Bluetooth Connectivity
+## Plan 2: Heartbeat Sensor
+
+Circuit:
+![Circuit](https://github.com/zycrus/ecen-1-final-project/blob/main/oximeter.jpg)
+
+## Plan 3: Digital Multimeter w/ Bluetooth Connectivity
 
 Circuits:
 - Voltmeter
