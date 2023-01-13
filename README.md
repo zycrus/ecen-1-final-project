@@ -9,6 +9,8 @@ Circuit:
 ![Circuit](https://github.com/zycrus/ecen-1-final-project/blob/main/Braille%20Alphabet%20Trainer.jpg)
 
 ## Plan 2: Heartbeat Sensor
+[Source](https://www.electronicshub.org/heartbeat-sensor-using-arduino-heart-rate-monitor/#:~:text=A%20simple%20Heartbeat%20Sensor%20consists,the%20signal%20to%20a%20Microcontroller.)
+
 
 Circuit:
 ![Circuit](https://github.com/zycrus/ecen-1-final-project/blob/main/oximeter.PNG)
