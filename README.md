@@ -19,17 +19,17 @@ Components:
 - 5V DC Power Supply/Battery
 - IR LED
 - Photodiode
-- LM358P
-- BC547BG NPN Transistor
-- Active Buzzer 5V
+- ~LM358P~
+- ~BC547BG NPN Transistor~
+- ~Active Buzzer 5V~
 - LED
-- 10uF 25V electrolytic capacitor
-- 3x 100 Ohm resistor
+- ~10uF 25V electrolytic capacitor~
+- ~3x 100 Ohm resistor~
 - 3x 330 Ohm resistor
-- 1x 10k Ohm resistor
-- 1x 100k Ohm resistor
+- ~1x 10k Ohm resistor~
+- ~1x 100k Ohm resistor~
 - 1x 4.6k Ohm resistor
-- 1x 6.8k Ohm resistor
+- ~1x 6.8k Ohm resistor~
 
 ## Plan 3: Digital Multimeter w/ Bluetooth Connectivity
 
